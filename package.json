@@ -21,5 +21,17 @@
   },
   "engines": {
     "node": "12.18.3"
-  }
+  },
+  "description": "",
+  "main": "express.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mmayutay/onlyBackEndForEnd.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mmayutay/onlyBackEndForEnd/issues"
+  },
+  "homepage": "https://github.com/mmayutay/onlyBackEndForEnd#readme"
 }
