@@ -1,6 +1,6 @@
 const express = require('express');
 const generateToken = require("./Helper/registrationAndLoginJWT.js")
-const port = process.env.PORT || 8080
+const port = process.env.PORT || 3000
 const mongoose = require("mongoose")
 const ObjectId = require('mongodb').ObjectID;
 const cors = require("cors")
